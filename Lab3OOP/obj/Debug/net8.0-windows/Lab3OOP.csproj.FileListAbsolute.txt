@@ -1,0 +1,16 @@
+D:\Нова папка\Lab3OOP\bin\Debug\net8.0-windows\Lab3OOP.exe
+D:\Нова папка\Lab3OOP\bin\Debug\net8.0-windows\Lab3OOP.deps.json
+D:\Нова папка\Lab3OOP\bin\Debug\net8.0-windows\Lab3OOP.runtimeconfig.json
+D:\Нова папка\Lab3OOP\bin\Debug\net8.0-windows\Lab3OOP.dll
+D:\Нова папка\Lab3OOP\bin\Debug\net8.0-windows\Lab3OOP.pdb
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.Form1.resources
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.AssemblyInfo.cs
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.dll
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\refint\Lab3OOP.dll
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.pdb
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\Lab3OOP.genruntimeconfig.cache
+D:\Нова папка\Lab3OOP\obj\Debug\net8.0-windows\ref\Lab3OOP.dll
